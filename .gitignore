@@ -1,0 +1,19 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Data
+*.csv
+*.xlsx
+*.pickle
+data/
